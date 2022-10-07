@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohitKumar3005
+- 👋 Hi, I’m @RohitKumar
 - 👀 I’m interested in Ethical Hacking and Competitive Coding.
 - 🌱 I’m currently learning Network Security
 - 💞️ I’m looking to collaborate on ...
