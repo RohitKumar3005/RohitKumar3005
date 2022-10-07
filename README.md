@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/rohitkumar3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkumar3005" height="30" width="40" /></a>
 <a href="https://instagram.com/_.rohitkumar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rohitkumar__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rohitkumar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohitkumar__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/RK30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohitkumar__" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rohitkumar3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohitkumar3005" height="30" width="40" /></a>
 </p>
 
