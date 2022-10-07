@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rohit KumarChourasia</h1>
+<h1 align="center">Hi 👋, I'm Rohit Kumar Chourasia</h1>
 <h3 align="center">Ethical Hacker</h3>
 
 <img align="right" alt="hacking" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e476lemekeunhlcasx2ra1gzgtph4muti0u5n3wfl9x&rid=giphy.gif&ct=g">
