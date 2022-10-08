@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumar3005&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar3005" /> </p>
 
-- 🧑‍🎓 Pursuing my Bachelor's in Computer Science And Business System from Bharti Vidyapeeth College of Engineering 
+- 🧑‍🎓 Pursuing my Bachelor's in Computer Science And Business System from Bharti Vidyapeeth (DU) College of Engineering 
 
 - 🧑‍💻 Ethical Hacker , Designer & Data Analyst
 
