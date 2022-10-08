@@ -1,9 +1,18 @@
+[![MasterHead]("C:\Users\ROHIT\Downloads\ezgif.com-gif-maker.gif")
+<h1 align="center">Hi !! Great to have you here ! 👋 </h1>
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar Chourasia</h1>
-<h3 align="center">Ethical Hacker</h3>
 
-<img align="right" alt="hacking" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e476lemekeunhlcasx2ra1gzgtph4muti0u5n3wfl9x&rid=giphy.gif&ct=g">
+<img align="right" alt="hacking" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e476lemekeunhlcasx2ra1gzgtph4muti0u5n3wfl9x&rid=giphy.gif&ct=g"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumar3005&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar3005" /> </p>
+
+- 🧑‍🎓 Pursuing my Bachelor's in Computer Science And Business System from Bharti Vidyapeeth College of Engineering 
+
+- 🧑‍💻 Ethical Hacker , Designer & Data Analyst
+
+- 🌱 Currently learning Website Hacking  
+
+No technology that's connect internet is unhackable so you are currently hackable 😏 and when i am not hacking you i hack my body lifting weights in the gym or playing games
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
