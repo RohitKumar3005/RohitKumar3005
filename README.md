@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\ROHIT\Downloads\ezgif.com-gif-maker.gif")
+![MasterHead](https://github.com/RohitKumar3005/RohitKumar3005/blob/main/logo.jpg)
 <h1 align="center">Hi !! Great to have you here ! 👋 </h1>
 
 
