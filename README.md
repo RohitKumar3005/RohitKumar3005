@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 Pursuing my Bachelor's in Computer Science And Business System from Bharti Vidyapeeth (DU) College of Engineering 
 
-- 🧑‍💻 Ethical Hacker , Designer & Data Analyst
+- 🧑‍💻 Ethical Hacker , Designer & Competitive Coding 
 
 - 🌱 Currently learning Website Hacking  
 
