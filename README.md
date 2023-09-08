@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/RohitKumar3005/RohitKumar3005/blob/main/logo.jpg)
+![MasterHead](https://github.com/RohitKumar3005/RohitKumar3005/blob/main/logo2.gif)
 <h1 align="center">Hi !! Great to have you here ! 👋 </h1>
 
 
